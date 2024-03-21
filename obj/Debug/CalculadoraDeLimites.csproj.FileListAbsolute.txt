@@ -1,0 +1,14 @@
+C:\Users\RyanCorazzaAlvarenga\OneDrive - IT2X Consultoria e Serviços em TI LTDA ME\Área de Trabalho\CalculadoraDeLimites\bin\Debug\CalculadoraDeLimites.exe.config
+C:\Users\RyanCorazzaAlvarenga\OneDrive - IT2X Consultoria e Serviços em TI LTDA ME\Área de Trabalho\CalculadoraDeLimites\bin\Debug\CalculadoraDeLimites.exe
+C:\Users\RyanCorazzaAlvarenga\OneDrive - IT2X Consultoria e Serviços em TI LTDA ME\Área de Trabalho\CalculadoraDeLimites\bin\Debug\CalculadoraDeLimites.pdb
+C:\Users\RyanCorazzaAlvarenga\OneDrive - IT2X Consultoria e Serviços em TI LTDA ME\Área de Trabalho\CalculadoraDeLimites\obj\Debug\CalculadoraDeLimites.csproj.AssemblyReference.cache
+C:\Users\RyanCorazzaAlvarenga\OneDrive - IT2X Consultoria e Serviços em TI LTDA ME\Área de Trabalho\CalculadoraDeLimites\obj\Debug\CalculadoraDeLimites.csproj.CoreCompileInputs.cache
+C:\Users\RyanCorazzaAlvarenga\OneDrive - IT2X Consultoria e Serviços em TI LTDA ME\Área de Trabalho\CalculadoraDeLimites\obj\Debug\CalculadoraDeLimites.exe
+C:\Users\RyanCorazzaAlvarenga\OneDrive - IT2X Consultoria e Serviços em TI LTDA ME\Área de Trabalho\CalculadoraDeLimites\obj\Debug\CalculadoraDeLimites.pdb
+C:\Projects\Faculdade\CalculadoraDeLimites\bin\Debug\CalculadoraDeLimites.exe.config
+C:\Projects\Faculdade\CalculadoraDeLimites\bin\Debug\CalculadoraDeLimites.exe
+C:\Projects\Faculdade\CalculadoraDeLimites\bin\Debug\CalculadoraDeLimites.pdb
+C:\Projects\Faculdade\CalculadoraDeLimites\obj\Debug\CalculadoraDeLimites.csproj.AssemblyReference.cache
+C:\Projects\Faculdade\CalculadoraDeLimites\obj\Debug\CalculadoraDeLimites.csproj.CoreCompileInputs.cache
+C:\Projects\Faculdade\CalculadoraDeLimites\obj\Debug\CalculadoraDeLimites.exe
+C:\Projects\Faculdade\CalculadoraDeLimites\obj\Debug\CalculadoraDeLimites.pdb
